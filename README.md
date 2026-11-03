@@ -35,12 +35,15 @@ Free API Explorer does not blindly trust every source link. The catalog includes
 
 Current catalog snapshot:
 
-- `1,426` APIs
+- `1,427` APIs
 - `51` categories
 - `1,033` verified documentation links
 - `113` GitHub-hosted documentation links
 - `49` protected documentation links
 - `231` links marked as needing review
+- `1` directly contributed API with unchecked documentation
+
+The link verification report retains its original 30 April 2026 results for the 1,426 existing entries. The directly contributed entry is unchecked in this repository; its addition does not mark the earlier checks as newly performed.
 
 ## Who Can Use This
 
@@ -58,3 +61,5 @@ This app, interface, scripts, repository structure, and documentation are author
 ## Data Notice
 
 The catalog data is transformed from the `public-apis/public-apis` project and its public API ecosystem. See [NOTICE](NOTICE) for attribution and license context.
+
+The local snapshot also contains a directly contributed API entry; this contribution is local to this catalogue and has not been represented as an upstream publication.
