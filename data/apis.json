@@ -1,7 +1,7 @@
 {
   "source": "https://github.com/public-apis/public-apis",
-  "generatedAt": "2026-04-30T05:10:36.721Z",
-  "count": 1426,
+  "generatedAt": "2026-11-03T10:33:40.558Z",
+  "count": 1427,
   "entries": [
     {
       "API": "AdoptAPet",
@@ -12885,6 +12885,15 @@
       "LinkStatusCode": 503,
       "FinalLink": "https://biriyani.anoram.com/",
       "LinkCheckedAt": "2026-04-30T05:48:18.716Z"
+    },
+    {
+      "API": "Bucketlist Dream of the Day",
+      "Description": "Daily travel and experience inspiration; Dutch/Netherlands defaults with optional filters",
+      "Auth": "No",
+      "HTTPS": true,
+      "Cors": "yes",
+      "Link": "https://bucketlist.nl/brand/droom-van-de-dag.openapi.json",
+      "Category": "Personality"
     },
     {
       "API": "Dev.to",
